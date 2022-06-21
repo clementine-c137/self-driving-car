@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    background: darkslateblue;
+    overflow: hidden;
+    text-align: center;
+}
+
+#canvasjs{
+    background: darkgray;
+}
